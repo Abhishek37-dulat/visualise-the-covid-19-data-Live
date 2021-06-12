@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/visualise-the-covid-19-data-Live/static/css/main.3bb3c040.chunk.css",
+    "main.js": "/visualise-the-covid-19-data-Live/static/js/main.39e3c3f2.chunk.js",
+    "main.js.map": "/visualise-the-covid-19-data-Live/static/js/main.39e3c3f2.chunk.js.map",
+    "runtime-main.js": "/visualise-the-covid-19-data-Live/static/js/runtime-main.d1abfaf1.js",
+    "runtime-main.js.map": "/visualise-the-covid-19-data-Live/static/js/runtime-main.d1abfaf1.js.map",
+    "static/js/2.db20877e.chunk.js": "/visualise-the-covid-19-data-Live/static/js/2.db20877e.chunk.js",
+    "static/js/2.db20877e.chunk.js.map": "/visualise-the-covid-19-data-Live/static/js/2.db20877e.chunk.js.map",
+    "index.html": "/visualise-the-covid-19-data-Live/index.html",
+    "static/css/main.3bb3c040.chunk.css.map": "/visualise-the-covid-19-data-Live/static/css/main.3bb3c040.chunk.css.map",
+    "static/js/2.db20877e.chunk.js.LICENSE.txt": "/visualise-the-covid-19-data-Live/static/js/2.db20877e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1abfaf1.js",
+    "static/js/2.db20877e.chunk.js",
+    "static/css/main.3bb3c040.chunk.css",
+    "static/js/main.39e3c3f2.chunk.js"
+  ]
+}
